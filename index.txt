@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>牧笛音樂教室｜線上聊天</title>
+  <title>庫里宇宙｜線上聊天</title>
   <style>
     body { margin: 0; font-family: system-ui, 'Microsoft JhengHei', sans-serif; background: #f6f8fb; color: #253047; }
     main { max-width: 760px; margin: 12vh auto; padding: 24px; text-align: center; }
@@ -15,11 +15,11 @@
 </head>
 <body>
   <main>
-    <h1>牧笛音樂教室</h1>
-    <p>歡迎來到牧笛音樂教室！</p>
+    <h1>庫里宇宙</h1>
+    <p>歡迎來到庫里宇宙！</p>
     <p class="hint">請點選右下角的聊天圖示，開始與我們的聊天機器人對話。</p>
   </main>
   <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-  <df-messenger intent="WELCOME" chat-title="牧笛音樂教室" agent-id="2f3f8192-7018-441b-bd19-bed013b424f6" language-code="zh-tw"></df-messenger>
+  <df-messenger intent="WELCOME" chat-title="庫里宇宙" agent-id="cbf5c211-f8b9-4b51-83c1-ef8d1a618daf" language-code="zh-tw"></df-messenger>
 </body>
 </html>
